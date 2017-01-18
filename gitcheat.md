@@ -4,7 +4,7 @@
 
 This line was added later.
 
-- 'git config --global user.name ""trezzao" - This configures the directory to the repository.'
+- 'git config --global user.name "trezzao" - This configures the directory to the repository.'
 - 'git config --global user.email "email" - This configures the directory to the repository.'
 - 'git config --list - This lists info about the configuration of the directory to the repository.'
 - 'git init - This initializes the repository.'
